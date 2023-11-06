@@ -213,6 +213,7 @@ for (let i = 0; i < charactersArray.length; i++) {
     }
 
     arr.push(posizione);
-}
-
-console.log(arr);
+  }
+  
+  console.log(arr);
+  
