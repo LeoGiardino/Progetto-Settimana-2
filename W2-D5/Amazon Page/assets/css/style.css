@@ -105,6 +105,7 @@ main{
     -moz-box-shadow: 5px 5px 10px 0px #9A9A9A;
     -o-box-shadow: 5px 5px 10px 0px #9A9A9A;
     box-shadow: 5px 5px 10px 0px #9A9A9A;
+    object-fit: cover;
 }
 
 .img1, .img2, .img3{
