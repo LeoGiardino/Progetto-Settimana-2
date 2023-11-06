@@ -45,6 +45,7 @@ nav{
     background-color: rgb(54, 72, 87);
     padding-left: 2.5%;
 }
+
 nav ul li{
     
     display: inline;
@@ -104,13 +105,10 @@ main{
     -moz-box-shadow: 5px 5px 10px 0px #9A9A9A;
     -o-box-shadow: 5px 5px 10px 0px #9A9A9A;
     box-shadow: 5px 5px 10px 0px #9A9A9A;
-
- 
 }
 
 .img1, .img2, .img3{
     padding-right: 2.5%;
-   
 }
 
 .img4{
@@ -130,12 +128,10 @@ main{
     margin-right: 10px;
 }
 
-
 .box3{
     background-image: url("../images/img_9.png");
     background-size: cover;
     height: 380px;
-
 }
 
 .box4{
@@ -158,8 +154,6 @@ main{
 
 .link a{
     color: #eaeded;
-    
-
 }
 
 footer img{
